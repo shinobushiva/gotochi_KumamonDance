@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, HelloLocalActivity!</string>
-    <string name="app_name">GotochiKumamonDance</string>
+	<string name="hello">Hello World, HelloLocalActivity!</string>
+	<string name="app_name">GotochiKumamonDance</string>
+	<string name="done_button">Done</string>
+	<integer name="gles_mode">1</integer>
+	<integer name="splash_mode">0</integer>
+	<bool name="profiler">false</bool>
 </resources>
